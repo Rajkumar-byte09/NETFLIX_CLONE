@@ -32,12 +32,12 @@ A responsive Netflix India landing page clone built using **HTML5 and CSS3**. Th
 
 ```text
 NETFLIX_CLONE/
-├── index.html
-├── style.css
-├── README.md
-├── homepage.png
-├── bg.jpg
-└── logo.svg
+└── netflix/
+    ├── index.html
+    ├── style.css
+    ├── bg.jpg
+    ├── logo.svg
+    └── homepage.png
 ```
 
 ## 🚀 Getting Started
