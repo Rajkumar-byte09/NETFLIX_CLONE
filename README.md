@@ -9,7 +9,7 @@ A responsive Netflix India landing page clone built using **HTML5 and CSS3**. Th
 
 ## 📸 Screenshots
 
-![Netflix Clone Homepage](homepage.png)
+![NETFLIX_CLONE Homepage](homepage.png)
 
 ## ✨ Features
 
